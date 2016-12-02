@@ -1,0 +1,412 @@
+﻿PokerStars Hand #160106436726: Tournament #1700461369, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2016/10/18 18:19:50 CET [2016/10/18 12:19:50 ET]
+Table '1700461369 1' 3-max Seat #1 is the button
+Seat 1: Tarq666 (500 in chips) 
+Seat 2: giannistsaga (500 in chips) is sitting out
+Seat 3: pheal (500 in chips) 
+giannistsaga: posts small blind 10
+pheal: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pheal [3s 3h]
+giannistsaga has returned
+Tarq666: folds 
+giannistsaga: folds 
+Uncalled bet (10) returned to pheal
+pheal collected 20 from pot
+pheal: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Tarq666 (button) folded before Flop (didn't bet)
+Seat 2: giannistsaga (small blind) folded before Flop
+Seat 3: pheal (big blind) collected (20)
+
+
+
+PokerStars Hand #160106443655: Tournament #1700461369, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2016/10/18 18:20:00 CET [2016/10/18 12:20:00 ET]
+Table '1700461369 1' 3-max Seat #2 is the button
+Seat 1: Tarq666 (500 in chips) 
+Seat 2: giannistsaga (490 in chips) 
+Seat 3: pheal (510 in chips) 
+pheal: posts small blind 10
+Tarq666: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pheal [7c 6h]
+giannistsaga: folds 
+pheal: raises 40 to 60
+Tarq666: calls 40
+*** FLOP *** [5s 7h 4h]
+pheal: bets 60
+Tarq666: raises 93 to 153
+pheal: raises 297 to 450 and is all-in
+Tarq666: calls 287 and is all-in
+Uncalled bet (10) returned to pheal
+*** TURN *** [5s 7h 4h] [Qs]
+*** RIVER *** [5s 7h 4h Qs] [Ac]
+*** SHOW DOWN ***
+pheal: shows [7c 6h] (a pair of Sevens)
+Tarq666: shows [3h Kh] (high card Ace)
+pheal collected 1000 from pot
+Tarq666 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Board [5s 7h 4h Qs Ac]
+Seat 1: Tarq666 (big blind) showed [3h Kh] and lost with high card Ace
+Seat 2: giannistsaga (button) folded before Flop (didn't bet)
+Seat 3: pheal (small blind) showed [7c 6h] and won (1000) with a pair of Sevens
+
+
+
+PokerStars Hand #160106472915: Tournament #1700461369, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2016/10/18 18:20:41 CET [2016/10/18 12:20:41 ET]
+Table '1700461369 1' 3-max Seat #3 is the button
+Seat 2: giannistsaga (490 in chips) 
+Seat 3: pheal (1010 in chips) 
+pheal: posts small blind 10
+giannistsaga: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pheal [4d Th]
+pheal: calls 10
+giannistsaga: checks 
+*** FLOP *** [5d Ks 8c]
+giannistsaga: checks 
+pheal: bets 20
+giannistsaga: folds 
+Uncalled bet (20) returned to pheal
+pheal collected 40 from pot
+pheal: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5d Ks 8c]
+Seat 2: giannistsaga (big blind) folded on the Flop
+Seat 3: pheal (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #160106484538: Tournament #1700461369, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2016/10/18 18:20:57 CET [2016/10/18 12:20:57 ET]
+Table '1700461369 1' 3-max Seat #2 is the button
+Seat 2: giannistsaga (470 in chips) 
+Seat 3: pheal (1030 in chips) 
+giannistsaga: posts small blind 10
+pheal: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pheal [6h Ah]
+giannistsaga: folds 
+Uncalled bet (10) returned to pheal
+pheal collected 20 from pot
+pheal: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: giannistsaga (button) (small blind) folded before Flop
+Seat 3: pheal (big blind) collected (20)
+
+
+
+PokerStars Hand #160106489571: Tournament #1700461369, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2016/10/18 18:21:04 CET [2016/10/18 12:21:04 ET]
+Table '1700461369 1' 3-max Seat #3 is the button
+Seat 2: giannistsaga (460 in chips) 
+Seat 3: pheal (1040 in chips) 
+pheal: posts small blind 10
+giannistsaga: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pheal [5d 9s]
+pheal: raises 20 to 40
+giannistsaga: folds 
+Uncalled bet (20) returned to pheal
+pheal collected 40 from pot
+pheal: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: giannistsaga (big blind) folded before Flop
+Seat 3: pheal (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #160106495327: Tournament #1700461369, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2016/10/18 18:21:12 CET [2016/10/18 12:21:12 ET]
+Table '1700461369 1' 3-max Seat #2 is the button
+Seat 2: giannistsaga (440 in chips) 
+Seat 3: pheal (1060 in chips) 
+giannistsaga: posts small blind 10
+pheal: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pheal [7d 6h]
+giannistsaga: raises 20 to 40
+pheal: calls 20
+*** FLOP *** [9h 3c 9c]
+pheal: checks 
+giannistsaga: bets 40
+pheal: folds 
+Uncalled bet (40) returned to giannistsaga
+giannistsaga collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [9h 3c 9c]
+Seat 2: giannistsaga (button) (small blind) collected (80)
+Seat 3: pheal (big blind) folded on the Flop
+
+
+
+PokerStars Hand #160106506346: Tournament #1700461369, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2016/10/18 18:21:28 CET [2016/10/18 12:21:28 ET]
+Table '1700461369 1' 3-max Seat #3 is the button
+Seat 2: giannistsaga (480 in chips) 
+Seat 3: pheal (1020 in chips) 
+pheal: posts small blind 10
+giannistsaga: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pheal [8d 7s]
+pheal: raises 20 to 40
+giannistsaga: folds 
+Uncalled bet (20) returned to pheal
+pheal collected 40 from pot
+pheal: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: giannistsaga (big blind) folded before Flop
+Seat 3: pheal (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #160106511209: Tournament #1700461369, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2016/10/18 18:21:35 CET [2016/10/18 12:21:35 ET]
+Table '1700461369 1' 3-max Seat #2 is the button
+Seat 2: giannistsaga (460 in chips) 
+Seat 3: pheal (1040 in chips) 
+giannistsaga: posts small blind 10
+pheal: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pheal [8s 9h]
+giannistsaga: folds 
+Uncalled bet (10) returned to pheal
+pheal collected 20 from pot
+pheal: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: giannistsaga (button) (small blind) folded before Flop
+Seat 3: pheal (big blind) collected (20)
+
+
+
+PokerStars Hand #160106514572: Tournament #1700461369, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2016/10/18 18:21:39 CET [2016/10/18 12:21:39 ET]
+Table '1700461369 1' 3-max Seat #3 is the button
+Seat 2: giannistsaga (450 in chips) 
+Seat 3: pheal (1050 in chips) 
+pheal: posts small blind 10
+giannistsaga: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pheal [6s Kd]
+pheal: raises 20 to 40
+giannistsaga: raises 410 to 450 and is all-in
+pheal: folds 
+Uncalled bet (410) returned to giannistsaga
+giannistsaga collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: giannistsaga (big blind) collected (80)
+Seat 3: pheal (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #160106522134: Tournament #1700461369, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2016/10/18 18:21:50 CET [2016/10/18 12:21:50 ET]
+Table '1700461369 1' 3-max Seat #2 is the button
+Seat 2: giannistsaga (490 in chips) 
+Seat 3: pheal (1010 in chips) 
+giannistsaga: posts small blind 10
+pheal: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pheal [9d 9s]
+giannistsaga: calls 10
+pheal: raises 50 to 70
+giannistsaga: folds 
+Uncalled bet (50) returned to pheal
+pheal collected 40 from pot
+pheal: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: giannistsaga (button) (small blind) folded before Flop
+Seat 3: pheal (big blind) collected (40)
+
+
+
+PokerStars Hand #160106530892: Tournament #1700461369, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2016/10/18 18:22:02 CET [2016/10/18 12:22:02 ET]
+Table '1700461369 1' 3-max Seat #3 is the button
+Seat 2: giannistsaga (470 in chips) 
+Seat 3: pheal (1030 in chips) 
+pheal: posts small blind 10
+giannistsaga: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pheal [2c Ac]
+pheal: calls 10
+giannistsaga: raises 450 to 470 and is all-in
+pheal: folds 
+Uncalled bet (450) returned to giannistsaga
+giannistsaga collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: giannistsaga (big blind) collected (40)
+Seat 3: pheal (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #160106540198: Tournament #1700461369, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2016/10/18 18:22:15 CET [2016/10/18 12:22:15 ET]
+Table '1700461369 1' 3-max Seat #2 is the button
+Seat 2: giannistsaga (490 in chips) 
+Seat 3: pheal (1010 in chips) 
+giannistsaga: posts small blind 10
+pheal: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pheal [Qs Ts]
+giannistsaga: raises 20 to 40
+pheal: calls 20
+*** FLOP *** [4s 3h 5h]
+pheal: checks 
+giannistsaga: checks 
+*** TURN *** [4s 3h 5h] [Td]
+pheal: bets 60
+giannistsaga: calls 60
+*** RIVER *** [4s 3h 5h Td] [3d]
+pheal: bets 120
+giannistsaga: calls 120
+*** SHOW DOWN ***
+pheal: shows [Qs Ts] (two pair, Tens and Threes)
+giannistsaga: mucks hand 
+pheal collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [4s 3h 5h Td 3d]
+Seat 2: giannistsaga (button) (small blind) mucked [Tc Jd]
+Seat 3: pheal (big blind) showed [Qs Ts] and won (440) with two pair, Tens and Threes
+
+
+
+PokerStars Hand #160106560488: Tournament #1700461369, $14.10+$0.90 USD Hold'em No Limit - Level I (10/20) - 2016/10/18 18:22:44 CET [2016/10/18 12:22:44 ET]
+Table '1700461369 1' 3-max Seat #3 is the button
+Seat 2: giannistsaga (270 in chips) 
+Seat 3: pheal (1230 in chips) 
+pheal: posts small blind 10
+giannistsaga: posts big blind 20
+*** HOLE CARDS ***
+Dealt to pheal [3c 2s]
+pheal: calls 10
+giannistsaga: raises 250 to 270 and is all-in
+pheal: folds 
+Uncalled bet (250) returned to giannistsaga
+giannistsaga collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: giannistsaga (big blind) collected (40)
+Seat 3: pheal (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #160106570171: Tournament #1700461369, $14.10+$0.90 USD Hold'em No Limit - Level II (15/30) - 2016/10/18 18:22:57 CET [2016/10/18 12:22:57 ET]
+Table '1700461369 1' 3-max Seat #2 is the button
+Seat 2: giannistsaga (290 in chips) 
+Seat 3: pheal (1210 in chips) 
+giannistsaga: posts small blind 15
+pheal: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pheal [2d 9c]
+giannistsaga: raises 260 to 290 and is all-in
+pheal: folds 
+Uncalled bet (260) returned to giannistsaga
+giannistsaga collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: giannistsaga (button) (small blind) collected (60)
+Seat 3: pheal (big blind) folded before Flop
+
+
+
+PokerStars Hand #160106576030: Tournament #1700461369, $14.10+$0.90 USD Hold'em No Limit - Level II (15/30) - 2016/10/18 18:23:06 CET [2016/10/18 12:23:06 ET]
+Table '1700461369 1' 3-max Seat #3 is the button
+Seat 2: giannistsaga (320 in chips) 
+Seat 3: pheal (1180 in chips) 
+pheal: posts small blind 15
+giannistsaga: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pheal [9c 5d]
+pheal: calls 15
+giannistsaga: checks 
+*** FLOP *** [Kh 8c 6d]
+giannistsaga: checks 
+pheal: bets 30
+giannistsaga: calls 30
+*** TURN *** [Kh 8c 6d] [9h]
+giannistsaga: checks 
+pheal: bets 75
+giannistsaga: raises 185 to 260 and is all-in
+pheal: folds 
+Uncalled bet (185) returned to giannistsaga
+giannistsaga collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [Kh 8c 6d 9h]
+Seat 2: giannistsaga (big blind) collected (270)
+Seat 3: pheal (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #160106599291: Tournament #1700461369, $14.10+$0.90 USD Hold'em No Limit - Level II (15/30) - 2016/10/18 18:23:38 CET [2016/10/18 12:23:38 ET]
+Table '1700461369 1' 3-max Seat #2 is the button
+Seat 2: giannistsaga (455 in chips) 
+Seat 3: pheal (1045 in chips) 
+giannistsaga: posts small blind 15
+pheal: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pheal [3s Ac]
+giannistsaga: raises 425 to 455 and is all-in
+pheal: folds 
+Uncalled bet (425) returned to giannistsaga
+giannistsaga collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: giannistsaga (button) (small blind) collected (60)
+Seat 3: pheal (big blind) folded before Flop
+
+
+
+PokerStars Hand #160106604504: Tournament #1700461369, $14.10+$0.90 USD Hold'em No Limit - Level II (15/30) - 2016/10/18 18:23:45 CET [2016/10/18 12:23:45 ET]
+Table '1700461369 1' 3-max Seat #3 is the button
+Seat 2: giannistsaga (485 in chips) 
+Seat 3: pheal (1015 in chips) 
+pheal: posts small blind 15
+giannistsaga: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pheal [5d Qh]
+pheal: raises 30 to 60
+giannistsaga: raises 425 to 485 and is all-in
+pheal: folds 
+Uncalled bet (425) returned to giannistsaga
+giannistsaga collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: giannistsaga (big blind) collected (120)
+Seat 3: pheal (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #160106610485: Tournament #1700461369, $14.10+$0.90 USD Hold'em No Limit - Level II (15/30) - 2016/10/18 18:23:54 CET [2016/10/18 12:23:54 ET]
+Table '1700461369 1' 3-max Seat #2 is the button
+Seat 2: giannistsaga (545 in chips) 
+Seat 3: pheal (955 in chips) 
+giannistsaga: posts small blind 15
+pheal: posts big blind 30
+*** HOLE CARDS ***
+Dealt to pheal [9h 9s]
+giannistsaga: raises 30 to 60
+pheal: raises 90 to 150
+giannistsaga: raises 395 to 545 and is all-in
+pheal: calls 395
+*** FLOP *** [9d 5s 3s]
+*** TURN *** [9d 5s 3s] [Ks]
+*** RIVER *** [9d 5s 3s Ks] [Tc]
+*** SHOW DOWN ***
+pheal: shows [9h 9s] (three of a kind, Nines)
+giannistsaga: shows [7s 7d] (a pair of Sevens)
+pheal collected 1090 from pot
+giannistsaga finished the tournament in 2nd place
+pheal wins the tournament and receives $30.00 - congratulations!
+*** SUMMARY ***
+Total pot 1090 | Rake 0 
+Board [9d 5s 3s Ks Tc]
+Seat 2: giannistsaga (button) (small blind) showed [7s 7d] and lost with a pair of Sevens
+Seat 3: pheal (big blind) showed [9h 9s] and won (1090) with three of a kind, Nines
+
+
+
